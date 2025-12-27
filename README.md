@@ -54,11 +54,72 @@ I am currently focused on advancing my software development skills, exploring in
 
 ---
 
-## 📌 Projects (Academic & Practice)
+## 📌 Projects (Academic, Internship & Practice)
 
-- **Student Course Registration System** – Full stack web application  
-- **Productivity / Notes App** – Task and category management  
-- **Mobile App Development Projects** – Learning Flutter & app workflows  
+### 🔹 Task 1: Student Course Registration System
+A full-stack web application that enables students and administrators to manage course registrations efficiently.
+- Student registration and login
+- View available courses
+- Register and unregister for courses
+- Admin panel to add, update, and delete courses
+- Proper form validations and a clean, user-friendly UI
+
+---
+
+### 🔹 Task 2: Personal Finance Dashboard
+A full-stack application designed to manage and visualize personal financial data.
+- Add and manage income and expenses
+- Categorize financial entries
+- Monthly financial overview with charts
+- Dashboard summary for quick insights
+- Secure backend storage using MySQL
+
+---
+
+### 🔹 Task 3: Online Event Booking System
+A web-based platform for managing events and ticket bookings.
+- Browse events such as concerts and workshops
+- View detailed event information
+- Book tickets and view booking history
+- Admin panel to create, update, and delete events
+
+---
+
+### 🔹 Task 4: Productivity App (Notes + To-Do + Reminders)
+A combined productivity platform to help users organize daily tasks and notes.
+- Create, edit, and delete notes
+- Manage a to-do list
+- Set reminders
+- Add categories and tags
+- User-specific data storage after authentication
+
+---
+
+### 🔹 Task 5: Blogging Platform (Medium-Lite Version)
+A blogging platform that allows users to publish and interact with content.
+- User authentication
+- Create, edit, and delete blog posts
+- Image upload support
+- Public blog feed
+- Like and comment functionality
+
+---
+
+### 🔹 Academic & Personal Projects
+
+- **eLearning Website Platform** *(HTML, CSS, JavaScript, PHP, MySQL)*  
+  Developed a comprehensive eLearning platform for teachers and students with user authentication, interactive courses, and communication tools.
+
+- **Frontend Developer Intern – Part2Product (1 Month)**  
+  Built responsive and user-friendly interfaces using HTML, CSS, and JavaScript, focusing on design consistency and usability.
+
+- **Multi-Vendor Digital Marketplace with Recommendation System**  
+  *(PHP, MySQL, Python, HTML, CSS, JavaScript, Bootstrap, Machine Learning)*  
+  - Developed a full-featured multi-vendor marketplace with buyer, seller, and admin modules.  
+  - Implemented OTP verification, secure product uploads (digital files with metadata), and payment workflow.  
+  - Integrated Razorpay payment gateway and designed seller dashboards for analytics and payouts.  
+  - Built an AI-powered hybrid recommendation system using TF-IDF, cosine similarity, user behavior, ratings, and popularity scores for real-time product suggestions.
+
 
 ---
 
