@@ -56,7 +56,7 @@ I am currently focused on advancing my software development skills, exploring in
 
 ## 📌 Projects (Academic, Internship & Practice)
 
-### 🔹 Task 1: Student Course Registration System
+### 🔹 Student Course Registration System
 A full-stack web application that enables students and administrators to manage course registrations efficiently.
 - Student registration and login
 - View available courses
@@ -66,7 +66,7 @@ A full-stack web application that enables students and administrators to manage 
 
 ---
 
-### 🔹 Task 2: Personal Finance Dashboard
+### 🔹 Personal Finance Dashboard
 A full-stack application designed to manage and visualize personal financial data.
 - Add and manage income and expenses
 - Categorize financial entries
@@ -76,7 +76,7 @@ A full-stack application designed to manage and visualize personal financial dat
 
 ---
 
-### 🔹 Task 3: Online Event Booking System
+### 🔹Online Event Booking System
 A web-based platform for managing events and ticket bookings.
 - Browse events such as concerts and workshops
 - View detailed event information
@@ -85,7 +85,7 @@ A web-based platform for managing events and ticket bookings.
 
 ---
 
-### 🔹 Task 4: Productivity App (Notes + To-Do + Reminders)
+### 🔹 Productivity App (Notes + To-Do + Reminders)
 A combined productivity platform to help users organize daily tasks and notes.
 - Create, edit, and delete notes
 - Manage a to-do list
@@ -95,7 +95,7 @@ A combined productivity platform to help users organize daily tasks and notes.
 
 ---
 
-### 🔹 Task 5: Blogging Platform (Medium-Lite Version)
+### 🔹 Blogging Platform (Medium-Lite Version)
 A blogging platform that allows users to publish and interact with content.
 - User authentication
 - Create, edit, and delete blog posts
