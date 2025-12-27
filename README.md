@@ -66,6 +66,8 @@ A full-stack web application that enables students and administrators to manage 
 - Admin panel to add, update, and delete courses
 - Proper form validations and a clean, user-friendly UI
 
+🔗 GitHub Repository: https://github.com/GirishaPriyadharsini/GENTRIQ_FSD_01
+
 ---
 
 ### 🔹 Personal Finance Dashboard
@@ -75,6 +77,8 @@ A full-stack application designed to manage and visualize personal financial dat
 - Monthly financial overview with charts
 - Dashboard summary for quick insights
 - Secure backend storage using MySQL
+
+🔗 GitHub Repository: https://github.com/GirishaPriyadharsini/GENTRIQ_FSD_02  
 
 ---
 
