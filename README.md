@@ -62,14 +62,6 @@ I am currently focused on advancing my software development skills, exploring in
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/girisaa-priyadharsini-m-9624bb2ab)
