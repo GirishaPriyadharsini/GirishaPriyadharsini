@@ -56,6 +56,8 @@ I am currently focused on advancing my software development skills, exploring in
 
 ## 📌 Projects (Academic, Internship & Practice)
 
+ gentriQ technologies Internship projects
+
 ### 🔹 Student Course Registration System
 A full-stack web application that enables students and administrators to manage course registrations efficiently.
 - Student registration and login
