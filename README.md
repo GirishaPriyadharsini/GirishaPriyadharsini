@@ -89,6 +89,8 @@ A web-based platform for managing events and ticket bookings.
 - Book tickets and view booking history
 - Admin panel to create, update, and delete events
 
+🔗 GitHub Repository: https://github.com/GirishaPriyadharsini/GENTRIQ_FSD_03
+
 ---
 
 ### 🔹 Productivity App (Notes + To-Do + Reminders)
