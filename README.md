@@ -101,6 +101,8 @@ A combined productivity platform to help users organize daily tasks and notes.
 - Add categories and tags
 - User-specific data storage after authentication
 
+🔗 GitHub Repository: https://github.com/GirishaPriyadharsini/GENTRIQ_FSD_04
+
 ---
 
 ### 🔹 Blogging Platform (Medium-Lite Version)
