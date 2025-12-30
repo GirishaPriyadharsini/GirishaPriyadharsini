@@ -113,6 +113,7 @@ A blogging platform that allows users to publish and interact with content.
 - Public blog feed
 - Like and comment functionality
 
+🔗 GitHub Repository: https://github.com/GirishaPriyadharsini/GENTRIQ_FSD_05 
 ---
 
 ### 🔹 Academic & Personal Projects
