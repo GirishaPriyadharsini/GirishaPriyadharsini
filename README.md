@@ -66,7 +66,7 @@ A full-stack web application that enables students and administrators to manage 
 - Admin panel to add, update, and delete courses
 - Proper form validations and a clean, user-friendly UI
 
-🔗 GitHub Repository: https://github.com/GirishaPriyadharsini/GENTRIQ_FSD_01
+- 🔗 GitHub Repository: https://github.com/GirishaPriyadharsini/GENTRIQ_FSD_01
 
 ---
 
@@ -78,7 +78,7 @@ A full-stack application designed to manage and visualize personal financial dat
 - Dashboard summary for quick insights
 - Secure backend storage using MySQL
 
-🔗 GitHub Repository: https://github.com/GirishaPriyadharsini/GENTRIQ_FSD_02  
+- 🔗 GitHub Repository: https://github.com/GirishaPriyadharsini/GENTRIQ_FSD_02  
 
 ---
 
@@ -89,7 +89,7 @@ A web-based platform for managing events and ticket bookings.
 - Book tickets and view booking history
 - Admin panel to create, update, and delete events
 
-🔗 GitHub Repository: https://github.com/GirishaPriyadharsini/GENTRIQ_FSD_03
+- 🔗 GitHub Repository: https://github.com/GirishaPriyadharsini/GENTRIQ_FSD_03
 
 ---
 
@@ -101,7 +101,7 @@ A combined productivity platform to help users organize daily tasks and notes.
 - Add categories and tags
 - User-specific data storage after authentication
 
-🔗 GitHub Repository: https://github.com/GirishaPriyadharsini/GENTRIQ_FSD_04
+- 🔗 GitHub Repository: https://github.com/GirishaPriyadharsini/GENTRIQ_FSD_04
 
 ---
 
@@ -113,7 +113,7 @@ A blogging platform that allows users to publish and interact with content.
 - Public blog feed
 - Like and comment functionality
 
-🔗 GitHub Repository: https://github.com/GirishaPriyadharsini/GENTRIQ_FSD_05 
+- 🔗 GitHub Repository: https://github.com/GirishaPriyadharsini/GENTRIQ_FSD_05
 ---
 
 ### 🔹 Academic & Personal Projects
