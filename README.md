@@ -46,7 +46,22 @@ I am currently focused on advancing my software development skills, exploring in
 
 ## 📌 Projects (Academic, Internship & Practice)
 
- gentriQ technologies Internship projects
+### 🔹 Academic & Personal Projects
+
+- **eLearning Website Platform** *(HTML, CSS, JavaScript, PHP, MySQL)*  
+  Developed a comprehensive eLearning platform for teachers and students with user authentication, interactive courses, and communication tools.
+
+- **Frontend Developer Intern – Part2Product (1 Month)**  
+  Built responsive and user-friendly interfaces using HTML, CSS, and JavaScript, focusing on design consistency and usability.
+
+- **Multi-Vendor Digital Marketplace with Recommendation System**  
+  *(PHP, MySQL, Python, HTML, CSS, JavaScript, Bootstrap, Machine Learning)*  
+  - Developed a full-featured multi-vendor marketplace with buyer, seller, and admin modules.  
+  - Implemented OTP verification, secure product uploads (digital files with metadata), and payment workflow.  
+  - Integrated Razorpay payment gateway and designed seller dashboards for analytics and payouts.  
+  - Built an AI-powered hybrid recommendation system using TF-IDF, cosine similarity, user behavior, ratings, and popularity scores for real-time product suggestions.
+
+>> GentriQ technologies Internship projects
 
 ### 🔹 Student Course Registration System
 A full-stack web application that enables students and administrators to manage course registrations efficiently.
@@ -104,23 +119,6 @@ A blogging platform that allows users to publish and interact with content.
 - Like and comment functionality
 
 - 🔗 GitHub Repository: https://github.com/GirishaPriyadharsini/GENTRIQ_FSD_05
----
-
-### 🔹 Academic & Personal Projects
-
-- **eLearning Website Platform** *(HTML, CSS, JavaScript, PHP, MySQL)*  
-  Developed a comprehensive eLearning platform for teachers and students with user authentication, interactive courses, and communication tools.
-
-- **Frontend Developer Intern – Part2Product (1 Month)**  
-  Built responsive and user-friendly interfaces using HTML, CSS, and JavaScript, focusing on design consistency and usability.
-
-- **Multi-Vendor Digital Marketplace with Recommendation System**  
-  *(PHP, MySQL, Python, HTML, CSS, JavaScript, Bootstrap, Machine Learning)*  
-  - Developed a full-featured multi-vendor marketplace with buyer, seller, and admin modules.  
-  - Implemented OTP verification, secure product uploads (digital files with metadata), and payment workflow.  
-  - Integrated Razorpay payment gateway and designed seller dashboards for analytics and payouts.  
-  - Built an AI-powered hybrid recommendation system using TF-IDF, cosine similarity, user behavior, ratings, and popularity scores for real-time product suggestions.
-
 
 ---
 
