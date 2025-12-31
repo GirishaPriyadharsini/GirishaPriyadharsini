@@ -18,16 +18,6 @@ I am currently focused on advancing my software development skills, exploring in
 
 ---
 
-## 💡 What I Do
-
-- Develop responsive and user-friendly web applications  
-- Build REST APIs and backend logic  
-- Work with databases and authentication systems  
-- Learning mobile app development using Flutter  
-- Focus on clean code and scalable solutions  
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages
